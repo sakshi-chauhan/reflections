@@ -1,0 +1,5 @@
+What happens when you initilise a repository? Why so you need to do it?
+A new git repository is created. Need? 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+An intermediate area.
